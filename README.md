@@ -1,5 +1,14 @@
-<h1 align="center">Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">, I'm Nidhi</h1>
-<h3 align="center"/>Full Stack Developer From India</h3>
+<h2 align="center">Hi there 👋, Welcome to my Github page!</h2>
+<ul>
+  <li>I'm Nidhi</a>, a Software Engineer having 4+ years of experience working in various domains like full stack, backend and AWS.</li>
+  <li>Checkout my GitHub repositories on <a href = "https://github.com/NidhiPrajapati2410">My Work</a>.</li>
+  <li>Follow me on <a href="https://www.linkedin.com/in/nidhi-prajapati-324b39205/">LinkedIn</a> to stay updated.</li>
+</ul>
+
+&nbsp;![](https://komarev.com/ghpvc/?username=NidhiPrajapati2410&color=brightgreen)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NidhiPrajapati2410&show_icons=true&rank_icon=github&locale=en" alt="NidhiPrajapati2410" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NidhiPrajapati2410&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NidhiPrajapati2410&label=Profile%20views&color=0e75b6&style=flat" alt="NidhiPrajapati2410" /> </p>
 
