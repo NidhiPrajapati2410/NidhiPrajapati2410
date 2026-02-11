@@ -1,16 +1,85 @@
-<h2 align="center">Hi there 👋, Welcome to my Github page!</h2>
-<ul>
-  <li>I'm Nidhi</a>, a Software Engineer having 4+ years of experience working in various domains like full stack, backend and AWS.</li>
-  <li>Checkout my GitHub repositories on <a href = "https://github.com/NidhiPrajapati2410">My Work</a>.</li>
-  <li>Follow me on <a href="https://www.linkedin.com/in/nidhi-prajapati-324b39205/">LinkedIn</a> to stay updated.</li>
-  <li>Contact me on nidhiprajapati2410@gmail.com</li>
-</ul>
+<h1 align="center">Hi 👋, I'm Nidhi Prajapati</h1>
+<h3 align="center">Senior Full Stack Developer | React | Node.js | Java | AWS</h3>
 
-&nbsp;![](https://komarev.com/ghpvc/?username=NidhiPrajapati2410&color=brightgreen)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NidhiPrajapati2410&show_icons=true&rank_icon=github&locale=en" alt="NidhiPrajapati2410" />
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NidhiPrajapati2410&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" /> -->
-</p>
-<p align="left">
-<h3 align="left">Languages and Tools:</h3>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a> <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
+---
 
+🚀 Full Stack Developer with 5+ years of experience building scalable web applications and microservices.  
+💡 Strong expertise in React.js, Node.js, Java Spring Boot, MongoDB, and AWS Serverless Architecture.  
+📈 Passionate about performance optimization, clean architecture, and solving complex business problems.
+
+---
+
+## 🧠 About Me
+
+- 🔭 Currently working as a **Senior Full Stack Developer**
+- 🏗 Architecting scalable microservices using **AWS Lambda**
+- ⚡ Improved system performance by **30%** through optimization
+- 👩‍💻 Experienced in client communication, technical leadership & mentoring
+- 📦 Strong background in CI/CD, GitHub workflows, and cloud deployment
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Frontend
+- React.js
+- JavaScript (ES6+)
+- Material UI
+- HTML5 / CSS3
+
+### ⚙ Backend
+- Node.js
+- Java
+- Spring Boot
+- REST APIs
+- Microservices Architecture
+
+### 🗄 Database
+- MongoDB
+- MySQL
+
+### ☁ Cloud & DevOps
+- AWS Lambda
+- API Gateway
+- S3
+- CI/CD
+- GitHub Actions
+
+---
+
+## 📊 GitHub Stats
+
+https://github-readme-stats.vercel.app/api?username=NidhiPrajapati2410&show_icons=true&theme=radical
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 SaaS Booking Platform
+- Built full-stack scalable SaaS application
+- Implemented formula-based pricing system
+- Integrated QuickBooks & Zapier
+- Automated workflows using AWS Lambda
+
+### 🔹 Microservices-Based Backend
+- Designed event-driven architecture
+- Reduced operational cost using serverless infrastructure
+- Improved performance by 30%
+
+---
+
+## 🤝 Leadership & Soft Skills
+
+- Technical Leadership
+- Client Communication
+- Requirement Analysis
+- Problem Solving
+- Code Reviews & Mentoring
+- Agile & Scrum Collaboration
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/nidhi-prajapati24/
+- 📧 Email: nidhiprajapati2410@gmail.com
